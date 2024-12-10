@@ -2,19 +2,6 @@
 
 Welcome to the **Coffee Market Prediction** project! This repository contains a machine-learning model that leverages coffee market data from the Ethiopian Commodity Exchange (ECX) to predict future coffee values. This project aims to assist traders, producers, and analysts in making informed decisions based on market trends.
 
-## Table of Contents  
-- [Overview](#overview)  
-- [Features](#features)  
-- [Data](#data)  
-- [Model](#model)  
-- [Requirements](#requirements)  
-- [Setup](#setup)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## Overview  
 Coffee is one of Ethiopia's largest exports, and its market trends have significant implications for the economy. This project uses historical market data to predict coffee prices, enabling stakeholders to strategize effectively.  
 
